@@ -1,0 +1,28 @@
+ul{
+  width: 100%;
+  background-color: grey;
+}
+li{
+  display: inline;
+  margin:10px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.sh input {
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+.sh button {
+  padding: 10px 20px;
+}
+
